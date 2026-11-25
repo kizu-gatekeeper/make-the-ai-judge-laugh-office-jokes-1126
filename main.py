@@ -7,7 +7,7 @@ $MAKEFUN_OUTPUT_DIR/entry.txt (default /output).
 import os
 from pathlib import Path
 
-LINE = "Our team-building trust fall was cancelled after Legal asked one question: who exactly is catching the budget?"
+LINE = "The meeting could have been an email, the email could have been one sentence, and the sentence was just: 'Per my last email \u2014 no.'"
 MAX_CHARS = 199
 
 
